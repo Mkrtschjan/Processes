@@ -1,5 +1,5 @@
 //package org.kodejava.example.management;
-// author @Raafat Elfouly and edited by Taline Mkrtschjan
+// @author Raafat Elfouly and edited by Taline Mkrtschjan
 
 import java.io.File;
 import java.io.PrintWriter;
