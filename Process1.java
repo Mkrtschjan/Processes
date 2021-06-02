@@ -1,5 +1,5 @@
 //package org.kodejava.example.management;
-// author @Mkrtschjan
+// author @Raafat Elfouly and edited by Taline Mkrtschjan
 
 import java.io.File;
 import java.io.PrintWriter;
@@ -9,8 +9,7 @@ import java.lang.management.RuntimeMXBean;
 import java.util.Date;
 import java.util.Scanner;
 
-/**@author Raafat
- */
+
 public class Process1 {
 
    // Java code illustrating destroy()  
@@ -89,8 +88,6 @@ public class Process1 {
             
             pro2.destroy(); 
             System.out.println("Process 3 destroyed"); 
-            
-            
       
         }  
             catch (Exception ex)  
